@@ -1,4 +1,4 @@
-makeVector <- function(x = numeric()) {
+makeCacheMatrix <- function(x = numeric()) {
   #This function creates a special "matrix" object that can cache its inverse.
 
   m <- NULL
